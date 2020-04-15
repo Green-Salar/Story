@@ -1,0 +1,10 @@
+git init
+ls -a : show hidden files too
+Staging are status : git status in cmd
+git status :: red ones  are not in staging are (are not being followed by git), green ones are being following by git.
+git add chapter1.txt :: add chapter 1 to staging area
+git commit - m "Name of change" :: use present word better - complete chapter1
+git add . :: add all files to staging area
+git log :: see all commits , "head" shows the current position
+git diff file.txt:: will show differences
+git checkout file.txt :: will reward all last changes we had for chapter 3
